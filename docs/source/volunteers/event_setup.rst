@@ -38,13 +38,13 @@ Windows
 ^^^^^^^
 
    - Windows 10
-   - `Java 8 <https://www.java.com/en/download/>`_ or higher on the laptop running running the FTCLive software
+   - `Java 8 for Windows <https://www.java.com/en/download/>`_ or higher on the laptop running running the FTCLive software
 
 Mac
 ^^^
 
    - macOS Sierra or greater
-   - `Java 8 <https://www.java.com/en/download/help/mac_install.html>`_ or higher on the laptop running the FTCLive software
+   - `Java 8 for Mac <https://www.java.com/en/download/help/mac_install.html>`_ or higher on the laptop running the FTCLive software
 
 .. caution:: Unlike the Windows environment, macOS **MAY** require the Java
    Development Kit (JDK) to run. Windows only requires the Java Runtime
@@ -101,6 +101,10 @@ server's main page.
 Setting Up An Event
 -------------------
 
+Setting up an event for competition day involves transferring event day
+information from `ftc-scoring <https://ftc-scoring.firstinspires.org`_ to
+the `FTCLive <https://github.com/FIRST-Tech-Challenge/scorekeeper`_ server
+running on the local event scoring server laptop.
 
 The Easy Way
 ------------
