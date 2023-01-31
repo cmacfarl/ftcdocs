@@ -102,23 +102,25 @@ Setting Up An Event
 -------------------
 
 Setting up an event for competition day involves transferring event day
-information from `ftc-scoring <https://ftc-scoring.firstinspires.org`_ to
-the `FTCLive <https://github.com/FIRST-Tech-Challenge/scorekeeper`_ server
+information from `ftc-scoring <https://ftc-scoring.firstinspires.org>`_ to
+the `FTCLive <https://github.com/FIRST-Tech-Challenge/scorekeeper>`_ server
 running on the local event scoring server laptop.
 
 The Easy Way
 ------------
 
-Step 1: Ensure the scoring server is running on the scoring server laptop.
-Login to the server using the default username and password shown on the
+Step 1: Ensure the FTCLive scoring server is running on the scoring server
+laptop. Login to the server using the default username and password shown on the
 server's login page.
 
-Step 2: Login to https://ftc-scoring.firstinspires.org , find the event you
-are setting up for, navigate to the event's homepage, select Manage Event to
-bring up the Event Dashboard, select Play Event Locally.
+Step 2: In another browser tab, login to https://ftc-scoring.firstinspires.org,
+find the event you are setting up for, navigate to the event's homepage, select
+**Manage Event** to bring up the Event Dashboard, select
+**Play Event Locally**.
 
 Step 3: Confirm that ftc-scoring can detect the FTCLive scoring server, and
-then select Import This Event.  Confirm the event setup, then click Confirm.
+then select **Import This Event**.  Confirm the event setup, then click
+**Confirm**.
 
 Once you've clicked Confirm on ftc-scoring, the event database is downloaded
 to the scoring server laptop and your browser is automatically switched over
